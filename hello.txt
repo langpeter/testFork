@@ -1,2 +1,2 @@
 hello from Forked
-new info in master
+new info in master and in fork
